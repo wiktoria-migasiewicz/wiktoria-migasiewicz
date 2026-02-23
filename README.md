@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Wiktoria
 
-[![TryHackMe Top 15](https://img.shields.io/badge/TryHackMe-Top_15_User-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)]((https://tryhackme.com/p/Hacker.Witos))
+[![TryHackMe Top 15%](https://img.shields.io/badge/TryHackMe-Top_15%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Hacker.Witos)
 
-🎯 Cybersecurity Engineer (in progress) | Application Security | Detection Engineering  
-💻 Software Engineer with QA & automation background  
-🛡️ ISC2 Certified in Cybersecurity (CC) | Security+ (in progress)
+🎯 Cybersecurity Graduate from Wrocław University of Science and Technology
+
+💻 Software Engineer for 2 years
+
+🛡️ ISC2 Certified in Cybersecurity (CC)
+
+⭐ In top 15% users on TryHackMe
 
 ---
 
@@ -31,24 +35,24 @@ Cybersecurity is not just something I study — it’s the direction I’m activ
 - 🛡️ **ISC2 Certified in Cybersecurity (CC)**  
 _Issued: 2026_
   
-  [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-2C3E50?style=for-the-badge&logo=protonvpn&logoColor=white)]([TUTAJ_WSTAW_LINK](https://www.credly.com/badges/f8c747dc-44e8-40c9-8090-57e2cad82cae/linked_in?t=t9on5o))
+  [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-2C3E50?style=for-the-badge&logo=protonvpn&logoColor=white)](https://www.credly.com/badges/f8c747dc-44e8-40c9-8090-57e2cad82cae/linked_in?t=t9on5o)
 
 - 🔐 **CompTIA Security+** *(in progress)*  
  _Expected: 2026_
 
-  [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-C41E3A?style=for-the-badge&logo=comptia&logoColor=white)](TUTAJ_WSTAW_LINK)
+  ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-C41E3A?style=for-the-badge&logo=comptia&logoColor=white)
 
 - 🌐 **Cisco Networking Academy – Network Security**
   
   _Issued: 2025_
     
-    [![Cisco Networking](https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]([TUTAJ_WSTAW_LINK](https://www.credly.com/badges/ed0bf76e-ccf7-469a-a77b-f642cc921105))
+    [![Cisco Networking](https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/ed0bf76e-ccf7-469a-a77b-f642cc921105)
 
 - 🌐 **Cisco Networking Academy – Enterprise Networking, Security and Automation**
   
   _Issued: 2025_
     
-    [![Cisco Enterprise Networking](https://img.shields.io/badge/Cisco-Enterprise_Networking_Security_Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]([TUTAJ_WSTAW_LINK](https://www.credly.com/badges/cc35505b-3c9b-41c0-819e-59ff71fde6da))
+    [![Cisco Enterprise Networking](https://img.shields.io/badge/Cisco-Enterprise_Networking_Security_Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/cc35505b-3c9b-41c0-819e-59ff71fde6da)
 
 
 ---
